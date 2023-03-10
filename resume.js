@@ -48,7 +48,7 @@ var resume = {
 		"Duration" : "6 Weeks",
 		"time" : "jun 2017-july2017",
 	},
-	personal_details :
+	personal_details : 
 	{
 		"date_of_birth" : "17 Nov 1996",
 		"Nationality" : "Indian",
